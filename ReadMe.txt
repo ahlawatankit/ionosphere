@@ -1,0 +1,1 @@
+In line number 104 of 'lab.py' change the name of the methods to run different methods (algorithm)
